@@ -1,0 +1,11 @@
+NICKNAME        = "Omegle"
+REALNAME        = "OmegleIRC - bigger, better, awesomer!"
+IDENT           = "Omegle"
+NICKSERV_PASS   = None
+SERVER          = "127.0.0.1"
+PORT            = 6667
+CHANNELS        = [ "#Yosi", "#omegle" ]
+PREFIX_CMD      = ";"
+PREFIX_INVIS    = "-"
+MAX_CLIENTS     = 5
+OMEGLE_SERVERS  = [ "omegle.com" ]
